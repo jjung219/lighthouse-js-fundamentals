@@ -1,4 +1,5 @@
 // Define lastIndexOf function that takes array and value as parameters and return the last index of the last time the value occurs in the array. If the value never occurs, the function should return -1.
+// Without using indexof. method
 
 const lastIndexOf = function (array, value) {
   let newArray = []
